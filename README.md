@@ -26,9 +26,14 @@ Picture Much Ado from Desktop
 
 Picture 2.)WickedShortsSignsOutsidecroppedandscaled.jpg
 
-“Wickedly funny… Engaging, entertaining and guaranteed to give you a giggle… Kirkland and Christie absolutely nail every pairing”- [Jo Ledingham, Vancouver Courier](http://www.vancourier.com/entertainment/short-plays-prove-wickedly-funny-1.390067)
+“Wickedly funny… Engaging, entertaining and guaranteed to give you a giggle… Kirkland and Christie absolutely nail every pairing.”- [Jo Ledingham, Vancouver Courier](http://www.vancourier.com/entertainment/short-plays-prove-wickedly-funny-1.390067)
 
 "Kirkland and Christie have as much fun toying with the gifted building of the laughs as we have in reacting to their sharp sense of timing. Serious and heartfelt ... leaving us laughing.”- [Critic, Vancouver Sun](need to find article)
+
+Photos
+------
+
+Headshots, Blue Room photo, The Fringe Guide picture
 
 Emerging Producer
 =================
@@ -41,6 +46,8 @@ Liz is currently participating in Block P at the [Playwrights Theatre Centre](ht
 
 Reviews for Good Theatre's first production *The Good of the Sun*
 -----------------------------------------------------------------
+
+Picture Good of the sun poster? or photo used
 
 Women's dark view of marriage a suprising Fringe Theme—Jerry Wasserman at [The Province](http://blogs.theprovince.com/2014/09/11/theatre-review-womens-dark-view-of-marriage-a-surprising-fringe-theme/)
 
