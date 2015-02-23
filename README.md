@@ -42,7 +42,6 @@ Liz is currently participating in Block P at the [Playwrights Theatre Centre](ht
 Reviews for Good Theatre's first production *The Good of the Sun*
 -----------------------------------------------------------------
 
-[Women's dark view of marriage a suprising Fringe Theme-Jerry Wasserman at The Province](http://blogs.theprovince.com/2014/09/11/theatre-review-womens-dark-view-of-marriage-a-surprising-fringe-theme/)
+Women's dark view of marriage a suprising Fringe Theme—Jerry Wasserman at [The Province](http://blogs.theprovince.com/2014/09/11/theatre-review-womens-dark-view-of-marriage-a-surprising-fringe-theme/)
 
-[The Good of the Sun-Susan Cormier at Plank Magazine](http://plankmagazine.com/review/good-sun)
-
+The Good of the Sun—Susan Cormier at [Plank Magazine](http://plankmagazine.com/review/good-sun)
