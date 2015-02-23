@@ -35,6 +35,13 @@ Photos
 
 Headshots, Blue Room photo, The Fringe Guide picture
 
+Client: Vancouver Fringe Festival
+Ad Agency: Saint Bernadine Mission Communications Inc.
+Photographer: Alastair Bird Photography
+Retoucher: Pinter Creative Studio
+Makeup Artist: Marie-Helene Babin 
+Hair Stylists: Elsa Meier and Kyna Bigornia
+
 Emerging Producer
 =================
 
