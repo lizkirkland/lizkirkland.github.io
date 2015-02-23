@@ -28,7 +28,7 @@ Picture 2.)WickedShortsSignsOutsidecroppedandscaled.jpg
 
 “Wickedly funny… Engaging, entertaining and guaranteed to give you a giggle… Kirkland and Christie absolutely nail every pairing.”- [Jo Ledingham, Vancouver Courier](http://www.vancourier.com/entertainment/short-plays-prove-wickedly-funny-1.390067)
 
-"Kirkland and Christie have as much fun toying with the gifted building of the laughs as we have in reacting to their sharp sense of timing. Serious and heartfelt ... leaving us laughing.”- [Critic, Vancouver Sun](need to find article)
+"Kirkland and Christie have as much fun toying with the gifted building of the laughs as we have in reacting to their sharp sense of timing. Serious and heartfelt ... leaving us laughing.”- [Critic, Vancouver Sun](need-to-find-article)
 
 Photos
 ------
