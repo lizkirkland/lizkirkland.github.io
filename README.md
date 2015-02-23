@@ -13,7 +13,7 @@ Coming up next
 Liz will be playing Olga in [Troika Collective](http://www.thetroikacollective.com/#!upcoming-production/cb3i)'s North American premier of *Nordost* by Torsten Buchsteiner. 
 Havana Theatre. March 4-7. Get your tickets now at [Brown Paper Tickets](http://nordost.brownpapertickets.com/)!
 
-In May Liz will be producing and acting in the staged reading of Miguel Eichelberger's *Cave* for the reading series of the 2015 [rEvolver Theatre Festival](http://www.upintheairtheatre.com/festival-about)
+In May Liz will be producing and acting in the staged reading of Miguel Eichelberger's *Cave* for the reading series of the 2015 [rEvolver Theatre Festival](http://www.upintheairtheatre.com/festival-about).
 
 Next summer marks Liz's second plunge into caring for a wee one when Shaun, her husband, Daphne, her daughter and her welcome baby number two into thier family. 
 
