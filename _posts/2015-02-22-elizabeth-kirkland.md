@@ -4,6 +4,7 @@ Elizabeth Kirkland
 Actor, mom, wife, lover, friend, emerging producer, puppeteer, crafter, adventurer
 
 ![Grey headshot](images/headshot-grey.jpg)
+Photo Mischa Bartkow
 
 Liz is an actor, emerging producer, puppeteer and mom. Liz has been acting for the past decade in Calgary and Vancouver and has a BFA with Distinction from the University of Calgary. Past theatre highlights include *A Christmas Carol* (5 consecutive years as Belle) and *Much Ado About Nothing* (Hero) both for Theatre Calgary, *Amadeus* (Katarina) for Alberta Theatre Projects, *Macbeth* (Witch 3, King Duncan) for Limbo Circus Theatre, *Cocktails at Pam’s* (Denise) for Staircase XI, and Alley Theatre’s *Wicked Shorts* which she acted in and co-produced alongside Marisa Smith. *Wicked Shorts* was produced for the 2010 Vancouver Fringe Festival and won the Cultchivating The Fringe Award. It went on to be remounted at The Cultch in 2011. Most recently Liz co-produced and acted in *The Good of the Sun* by BC playwright [Betty Lambert](http://www.bettylambert.ca/index.htm) for her company Good Theatre at the Vancouver Fringe Festival.
 
@@ -21,10 +22,12 @@ What the Critics say
 --------------------
 
 ![Much Ado](/images/Much Ado.jpg)
+Photo Trudie Lee 
 
 "In the roles of Hero and Claudio, Elizabeth Kirkland and Tyrell Crews are well cast. Kirkland has a vulnerability about her; Kirkland's Hero is by turns dazzled and destroyed by the overpowering emotions surrounding her."-[Gavin Logan, Talking Broadway](http://www.talkinbroadway.com/regional/canada/ca14.html)
 
-Picture 2.)WickedShortsSignsOutsidecroppedandscaled.jpg
+![Wicked Shorts](/images/WickedShortsSignsOutside copy.jpg)
+Photo Bettina Strauss
 
 “Wickedly funny… Engaging, entertaining and guaranteed to give you a giggle… Kirkland and Christie absolutely nail every pairing.”- [Jo Ledingham, Vancouver Courier](http://www.vancourier.com/entertainment/short-plays-prove-wickedly-funny-1.390067)
 
@@ -33,7 +36,15 @@ Picture 2.)WickedShortsSignsOutsidecroppedandscaled.jpg
 Photos
 ------
 
-Headshots, Blue Room photo, The Fringe Guide picture
+![Newest Headshot](/images/LizKirkland.jpg)
+
+*The Blue Room* with Gadfly Productions
+
+![The Blue Room Photo](/images/The Blue Room.jpg)
+
+The 2014 Vancouver Fringe Festival Guide!
+
+![Fringe Guide](/images/Fringe Guide Photo.jpg)
 
 Client: Vancouver Fringe Festival
 Ad Agency: Saint Bernadine Mission Communications Inc.
