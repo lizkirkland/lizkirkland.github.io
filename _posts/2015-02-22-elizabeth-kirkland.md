@@ -69,7 +69,7 @@ Hair Stylists: Elsa Meier and Kyna Bigornia
 Emerging Producer
 =================
 
-Liz produces for her own company Good Theatre alongside [Tanille Geib](http://www.tanillegeib.ca/) and co-produced alongside Marisa Smith of [Alley Theatre](http://alleytheatre.wix.com/alleytheatre) for *Wicked Shorts* in 2010.
+Liz is learning the ropes producing for her own company Good Theatre alongside artist, friend, and inspiration, [Tanille Geib](http://www.tanillegeib.ca/). 
 
 Good Theatre aims to produce women focused, multi-disciplinary and subtext rich plays written by BC, female playwrights.
 
