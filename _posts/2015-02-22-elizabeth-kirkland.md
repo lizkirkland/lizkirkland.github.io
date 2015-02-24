@@ -1,7 +1,7 @@
 Elizabeth Kirkland
 ==================
 
-Actor, mom, wife, lover, friend, emerging producer, puppeteer, crafter, adventurer
+Actor, mom, wife, lover, friend, emerging producer, puppeteer, crafter, adventurer.
 
 ![Grey headshot](/images/headshot-grey.jpg)
 
