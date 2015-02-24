@@ -27,8 +27,8 @@ Photo by [Christine Quintana](http://christinequintana.ca/)
 
 A world devoid of hope breeds predators and prey, nothing else. On his way to a long-abandoned theatre, Alex saves Maryn. They take refuge in the theatre. The work through all that they’ve learned in this world toward a place of genuine human trust while cleaning the theatre around them, restoring as best they can something outside themselves, something more than the self-serving mentality of this existence. Humans require a cause, something noble, to bring out our true nature of cooperation and innovation and Alex and Maryn must start as we once did: without a light, in a cave.
 
-Part of the rEvolver Reading Series, we'll bring *Cave* to life in the cozy Wine Bar at [The Cultch](http://thecultch.com/)
-
 Directed by Marisa Smith
 
 Featuring Elizabeth Kirkland as Maryn and Victor Ayala as Alex
+
+Part of the rEvolver Reading Series, we'll bring *Cave* to life in the cozy Wine Bar at [The Cultch](http://thecultch.com/)!
