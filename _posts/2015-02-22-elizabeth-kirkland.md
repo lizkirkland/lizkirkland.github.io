@@ -1,7 +1,19 @@
-Elizabeth Kirkland
-==================
+---
+layout: post
 
-Actor, mom, wife, lover, friend, emerging producer, puppeteer, crafter, adventurer.
+title: Elizabeth Kirkland
+subtitle: Actor, mom, wife, lover, friend, emerging producer, puppeteer, crafter, adventurer.
+cover_image: blog-cover.jpg
+
+excerpt: Actor, mom, wife, lover, friend, emerging producer, puppeteer, crafter, adventurer.
+
+author:
+  name: Elizabeth Kirkland
+  twitter: ElizJackman
+  gplus: 112564550507120299319
+  bio: Actor, producer, mom, adventurer
+  image: ks.png
+---
 
 ![Grey headshot](/images/headshot-grey.jpg)
 
@@ -12,14 +24,14 @@ Elizabeth is an actor, emerging producer, puppeteer and mom. Elizabeth has been 
 Coming up next
 --------------
 
-Elizabeth will be playing Olga in [Troika Collective](http://www.thetroikacollective.com/#!upcoming-production/cb3i)'s North American premier of *Nordost* by Torsten Buchsteiner. 
+Elizabeth will be playing Olga in [Troika Collective](http://www.thetroikacollective.com/#!upcoming-production/cb3i)'s North American premier of *Nordost* by Torsten Buchsteiner.
 Havana Theatre, 1212 Commercial Drive
 March 4-7.
 Get your tickets now at [Brown Paper Tickets](http://nordost.brownpapertickets.com/)!
 
 In May Elizabeth will be producing and acting in a staged reading of Miguel Eichelberger's *Cave* for the reading series of the 2015 [rEvolver Theatre Festival](http://www.upintheairtheatre.com/festival-about).
 
-Next summer marks Elizabeth's second plunge into caring for a wee one when Shaun, her husband, Daphne, her daughter and her welcome baby number two into thier family. 
+Next summer marks Elizabeth's second plunge into caring for a wee one when Shaun, her husband, Daphne, her daughter and her welcome baby number two into thier family.
 
 What the Critics say
 --------------------
@@ -28,7 +40,7 @@ What the Critics say
 
 *Much Ado About Nothing* with Theatre Calgary
 
-Photo Trudie Lee 
+Photo Trudie Lee
 
 "In the roles of Hero and Claudio, Elizabeth Kirkland and Tyrell Crews are well cast. Kirkland has a vulnerability about her; Kirkland's Hero is by turns dazzled and destroyed by the overpowering emotions surrounding her."-[Gavin Logan, Talking Broadway](http://www.talkinbroadway.com/regional/canada/ca14.html)
 
@@ -69,18 +81,18 @@ Photographer: Alastair Bird Photography
 
 Retoucher: Pinter Creative Studio
 
-Makeup Artist: Marie-Helene Babin 
+Makeup Artist: Marie-Helene Babin
 
 Hair Stylists: Elsa Meier and Kyna Bigornia
 
 Emerging Producer
 =================
 
-Liz is learning the ropes producing for her own company Good Theatre alongside artist, friend, and inspiration, [Tanille Geib](http://www.tanillegeib.ca/). 
+Liz is learning the ropes producing for her own company Good Theatre alongside artist, friend, and inspiration, [Tanille Geib](http://www.tanillegeib.ca/).
 
 Good Theatre aims to produce women focused, multi-disciplinary and subtext rich plays written by BC, female playwrights.
 
-Liz is currently participating in Block P at the [Playwrights Theatre Centre](http://www.playwrightstheatre.com/programs/writers-blocks/) learning all that she can about producing from the awesome peeps at [Upintheair Theatre](http://www.upintheairtheatre.com/). 
+Liz is currently participating in Block P at the [Playwrights Theatre Centre](http://www.playwrightstheatre.com/programs/writers-blocks/) learning all that she can about producing from the awesome peeps at [Upintheair Theatre](http://www.upintheairtheatre.com/).
 
 Reviews for Good Theatre's first production, *The Good of the Sun*
 -----------------------------------------------------------------
