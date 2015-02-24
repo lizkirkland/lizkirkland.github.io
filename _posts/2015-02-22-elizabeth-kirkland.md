@@ -6,17 +6,22 @@ Actor, mom, wife, lover, friend, emerging producer, puppeteer, crafter, adventur
 ![Grey headshot](images/headshot-grey.jpg)
 Photo Mischa Bartkow
 
-Liz is an actor, emerging producer, puppeteer and mom. Liz has been acting for the past decade in Calgary and Vancouver and has a BFA with Distinction from the University of Calgary. Past theatre highlights include *A Christmas Carol* (5 consecutive years as Belle) and *Much Ado About Nothing* (Hero) both for Theatre Calgary, *Amadeus* (Katarina) for Alberta Theatre Projects, *Macbeth* (Witch 3, King Duncan) for Limbo Circus Theatre, *Cocktails at Pam’s* (Denise) for Staircase XI, and Alley Theatre’s *Wicked Shorts* which she acted in and co-produced alongside Marisa Smith. *Wicked Shorts* was produced for the 2010 Vancouver Fringe Festival and won the Cultchivating The Fringe Award. It went on to be remounted at The Cultch in 2011. Most recently Liz co-produced and acted in *The Good of the Sun* by BC playwright [Betty Lambert](http://www.bettylambert.ca/index.htm) for her company Good Theatre at the Vancouver Fringe Festival.
+Elizabeth is an actor, emerging producer, puppeteer and mom. Elizabeth has been acting for the past decade in Calgary and Vancouver and has a BFA with Distinction from the University of Calgary. Past theatre highlights include *A Christmas Carol* (5 consecutive years as Belle) and *Much Ado About Nothing* (Hero) both for Theatre Calgary, *Amadeus* (Katarina) for Alberta Theatre Projects, *Macbeth* (Witch 3, King Duncan) for Limbo Circus Theatre, *Cocktails at Pam’s* (Denise) for Staircase XI, and Alley Theatre’s *Wicked Shorts* which she acted in and co-produced alongside Marisa Smith. *Wicked Shorts* was produced for the 2010 Vancouver Fringe Festival and won the Cultchivating The Fringe Award. It went on to be remounted at The Cultch in 2011. Most recently Elizabeth co-produced and acted in *The Good of the Sun* by BC playwright [Betty Lambert](http://www.bettylambert.ca/index.htm) for her company Good Theatre at the Vancouver Fringe Festival.
 
 Coming up next
 --------------
 
-Liz will be playing Olga in [Troika Collective](http://www.thetroikacollective.com/#!upcoming-production/cb3i)'s North American premier of *Nordost* by Torsten Buchsteiner. 
-Havana Theatre. March 4-7. Get your tickets now at [Brown Paper Tickets](http://nordost.brownpapertickets.com/)!
+Elizabeth will be playing Olga in [Troika Collective](http://www.thetroikacollective.com/#!upcoming-production/cb3i)'s North American premier of *Nordost* by Torsten Buchsteiner. 
 
-In May Liz will be producing and acting in the staged reading of Miguel Eichelberger's *Cave* for the reading series of the 2015 [rEvolver Theatre Festival](http://www.upintheairtheatre.com/festival-about).
+Havana Theatre.
 
-Next summer marks Liz's second plunge into caring for a wee one when Shaun, her husband, Daphne, her daughter and her welcome baby number two into thier family. 
+March 4-7.
+
+Get your tickets now at [Brown Paper Tickets](http://nordost.brownpapertickets.com/)!
+
+In May Elizabeth will be producing and acting in a staged reading of Miguel Eichelberger's *Cave* for the reading series of the 2015 [rEvolver Theatre Festival](http://www.upintheairtheatre.com/festival-about).
+
+Next summer marks Elizabeth's second plunge into caring for a wee one when Shaun, her husband, Daphne, her daughter and her welcome baby number two into thier family. 
 
 What the Critics say
 --------------------
@@ -33,7 +38,7 @@ Photo [Bettina Strauss](http://best-foto.com/)
 
 “Wickedly funny… Engaging, entertaining and guaranteed to give you a giggle… Kirkland and Christie absolutely nail every pairing.”- [Jo Ledingham, Vancouver Courier](http://www.vancourier.com/entertainment/short-plays-prove-wickedly-funny-1.390067)
 
-"Kirkland and Christie have as much fun toying with the gifted building of the laughs as we have in reacting to their sharp sense of timing. Serious and heartfelt ... leaving us laughing.”- [Critic, Vancouver Sun](need-to-find-article)
+"Kirkland and Christie have as much fun toying with the gifted building of the laughs as we have in reacting to their sharp sense of timing. Serious and heartfelt ... leaving us laughing.”- Vancouver Sun
 
 Photos
 ------
@@ -69,7 +74,7 @@ Good Theatre aims to produce women focused, multi-disciplinary and subtext rich 
 
 Liz is currently participating in Block P at the [Playwrights Theatre Centre](http://www.playwrightstheatre.com/programs/writers-blocks/) learning all that she can about producing from the awesome peeps at [Upintheair Theatre](http://www.upintheairtheatre.com/). 
 
-Reviews for Good Theatre's first production *The Good of the Sun*
+Reviews for Good Theatre's first production, *The Good of the Sun*
 -----------------------------------------------------------------
 
 ![GotS Poster](/images/GotSPoster-alt copy.jpg)
