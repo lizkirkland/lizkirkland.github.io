@@ -19,7 +19,7 @@ author:
 
 ###Up next for Good Theatre!?
 
-*Cave* by Miguel Eichelberger at the 2015 [rEvolver Theatre Festival](http://www.upintheairtheatre.com/festival-about)!
+*Cave* by Miguel Eichelberger at the 2015 [rEvolver Theatre Festival](http://www.upintheairtheatre.com/festival-about)! Part of the rEvolver Reading Series, we'll bring *Cave* to life in the cozy Wine Bar at [The Cultch](http://thecultch.com/)!
 
 ![Cave Picture](/images/LizKirkland.VictorAyala.Cave.ChristineQuintana1.jpg)
 
@@ -30,5 +30,3 @@ A world devoid of hope breeds predators and prey, nothing else. On his way to a 
 Directed by Marisa Smith
 
 Featuring Elizabeth Kirkland as Maryn and Victor Ayala as Alex
-
-Part of the rEvolver Reading Series, we'll bring *Cave* to life in the cozy Wine Bar at [The Cultch](http://thecultch.com/)!
