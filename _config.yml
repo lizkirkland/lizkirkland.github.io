@@ -23,9 +23,9 @@ inc:
   
   # Sharing settings
   sharing:
-    twitter:    false
-    facebook:   false
-    gplus:      false
+    twitter:    true
+    facebook:   true
+    gplus:      true
     hn:         false
     
   
