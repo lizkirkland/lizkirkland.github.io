@@ -23,7 +23,7 @@ author:
 
 Part of the rEvolver Reading Series, we'll be bringing *Cave* to life in the cozy Wine Bar at [The Cultch](http://thecultch.com/)
 
-[Cave Picture](/images/LizKirkland.VictorAyala.Cave.ChristineQuintana1.jpg)
+![Cave Picture](/images/LizKirkland.VictorAyala.Cave.ChristineQuintana1.jpg)
 
 Photo by [Christine Quintana](http://christinequintana.ca/)
 
