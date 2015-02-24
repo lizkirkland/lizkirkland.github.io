@@ -55,7 +55,7 @@ Photos
 
 *Lovesong* with Connecting Flights Theatre
 
-Photo [Megan Morrison](http://www.opaleyephotography.com/)
+Photo [Opal Eye Photography](http://www.opaleyephotography.com/)
 
 The 2014 Vancouver Fringe Festival Guide!
 
