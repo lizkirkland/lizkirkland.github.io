@@ -27,13 +27,13 @@ Next summer marks Elizabeth's second plunge into caring for a wee one when Shaun
 What the Critics say
 --------------------
 
-![Much Ado](/images/Much Ado.jpg)
+![Much Ado](/images/MuchAdo.jpg)
 
 Photo Trudie Lee 
 
 "In the roles of Hero and Claudio, Elizabeth Kirkland and Tyrell Crews are well cast. Kirkland has a vulnerability about her; Kirkland's Hero is by turns dazzled and destroyed by the overpowering emotions surrounding her."-[Gavin Logan, Talking Broadway](http://www.talkinbroadway.com/regional/canada/ca14.html)
 
-![Wicked Shorts](/images/WickedShortsSignsOutside copy.jpg)
+![Wicked Shorts](/images/WickedShortsSignsOutside.jpg)
 
 Photo [Bettina Strauss](http://best-foto.com/)
 
@@ -48,11 +48,11 @@ Photos
 
 *The Blue Room* with Gadfly Productions
 
-![The Blue Room Photo](/images/The Blue Room.jpg)
+![The Blue Room Photo](/images/TheBlueRoom.jpg)
 
 The 2014 Vancouver Fringe Festival Guide!
 
-![Fringe Guide](/images/Fringe Guide Photo.jpg)
+![Fringe Guide](/images/FringeGuidePhoto.jpg)
 
 Client: Vancouver Fringe Festival
 
@@ -78,7 +78,7 @@ Liz is currently participating in Block P at the [Playwrights Theatre Centre](ht
 Reviews for Good Theatre's first production, *The Good of the Sun*
 -----------------------------------------------------------------
 
-![GotS Poster](/images/GotSPoster-alt copy.jpg)
+![GotS Poster](/images/GotSPoster.jpg)
 
 Photo by [Kurtis Stewart](http://kurtisstewart.com/)
 
