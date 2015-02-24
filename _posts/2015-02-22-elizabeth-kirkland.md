@@ -13,11 +13,8 @@ Coming up next
 --------------
 
 Elizabeth will be playing Olga in [Troika Collective](http://www.thetroikacollective.com/#!upcoming-production/cb3i)'s North American premier of *Nordost* by Torsten Buchsteiner. 
-
-Havana Theatre.
-
+Havana Theatre, 1212 Commercial Drive
 March 4-7.
-
 Get your tickets now at [Brown Paper Tickets](http://nordost.brownpapertickets.com/)!
 
 In May Elizabeth will be producing and acting in a staged reading of Miguel Eichelberger's *Cave* for the reading series of the 2015 [rEvolver Theatre Festival](http://www.upintheairtheatre.com/festival-about).
@@ -50,6 +47,9 @@ Photos
 
 ![The Blue Room Photo](/images/TheBlueRoom.jpg)
 
+![Lovesong photo](/images/Lovesongphoto.jpg)
+Photo [Megan Morrison](http://www.opaleyephotography.com/)
+
 The 2014 Vancouver Fringe Festival Guide!
 
 ![Fringe Guide](/images/FringeGuidePhoto.jpg)
@@ -71,7 +71,7 @@ Emerging Producer
 
 Liz produces for her own company Good Theatre alongside [Tanille Geib](http://www.tanillegeib.ca/) and co-produced alongside Marisa Smith of [Alley Theatre](http://alleytheatre.wix.com/alleytheatre) for *Wicked Shorts* in 2010.
 
-Good Theatre aims to produce women focused, multi-disciplinary and subtext rich plays written by BC playwrights.
+Good Theatre aims to produce women focused, multi-disciplinary and subtext rich plays written by BC, female playwrights.
 
 Liz is currently participating in Block P at the [Playwrights Theatre Centre](http://www.playwrightstheatre.com/programs/writers-blocks/) learning all that she can about producing from the awesome peeps at [Upintheair Theatre](http://www.upintheairtheatre.com/). 
 
