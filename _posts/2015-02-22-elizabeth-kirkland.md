@@ -22,12 +22,14 @@ What the Critics say
 --------------------
 
 ![Much Ado](/images/Much Ado.jpg)
+
 Photo Trudie Lee 
 
 "In the roles of Hero and Claudio, Elizabeth Kirkland and Tyrell Crews are well cast. Kirkland has a vulnerability about her; Kirkland's Hero is by turns dazzled and destroyed by the overpowering emotions surrounding her."-[Gavin Logan, Talking Broadway](http://www.talkinbroadway.com/regional/canada/ca14.html)
 
 ![Wicked Shorts](/images/WickedShortsSignsOutside copy.jpg)
-Photo Bettina Strauss
+
+Photo [Bettina Strauss](http://best-foto.com/)
 
 “Wickedly funny… Engaging, entertaining and guaranteed to give you a giggle… Kirkland and Christie absolutely nail every pairing.”- [Jo Ledingham, Vancouver Courier](http://www.vancourier.com/entertainment/short-plays-prove-wickedly-funny-1.390067)
 
@@ -71,6 +73,8 @@ Reviews for Good Theatre's first production *The Good of the Sun*
 -----------------------------------------------------------------
 
 ![GotS Poster](/images/GotSPoster-alt copy.jpg)
+
+Photo by [Kurtis Stewart](http://kurtisstewart.com/)
 
 Women's dark view of marriage a suprising Fringe Theme—Jerry Wasserman at [The Province](http://blogs.theprovince.com/2014/09/11/theatre-review-womens-dark-view-of-marriage-a-surprising-fringe-theme/)
 
