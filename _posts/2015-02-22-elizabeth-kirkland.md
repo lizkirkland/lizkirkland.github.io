@@ -31,7 +31,7 @@ Get your tickets now at [Brown Paper Tickets](http://nordost.brownpapertickets.c
 
 In May Elizabeth will be producing and acting in a staged reading of Miguel Eichelberger's *Cave* for the reading series of the 2015 [rEvolver Theatre Festival](http://www.upintheairtheatre.com/festival-about).
 
-Next summer marks Elizabeth's second plunge into caring for a wee one when Shaun, her husband, Daphne, her daughter and her welcome baby number two into thier family.
+Next summer marks Elizabeth's second plunge into caring for a wee one when Shaun, her husband, Daphne, her daughter and her welcome baby number two into their family.
 
 What the Critics say
 --------------------
