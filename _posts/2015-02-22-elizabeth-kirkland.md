@@ -47,10 +47,15 @@ The 2014 Vancouver Fringe Festival Guide!
 ![Fringe Guide](/images/Fringe Guide Photo.jpg)
 
 Client: Vancouver Fringe Festival
+
 Ad Agency: Saint Bernadine Mission Communications Inc.
+
 Photographer: Alastair Bird Photography
+
 Retoucher: Pinter Creative Studio
+
 Makeup Artist: Marie-Helene Babin 
+
 Hair Stylists: Elsa Meier and Kyna Bigornia
 
 Emerging Producer
@@ -65,7 +70,7 @@ Liz is currently participating in Block P at the [Playwrights Theatre Centre](ht
 Reviews for Good Theatre's first production *The Good of the Sun*
 -----------------------------------------------------------------
 
-Picture Good of the sun poster? or photo used
+![GotS Poster](/images/GotSPoster-alt copy.jpg)
 
 Women's dark view of marriage a suprising Fringe Theme—Jerry Wasserman at [The Province](http://blogs.theprovince.com/2014/09/11/theatre-review-womens-dark-view-of-marriage-a-surprising-fringe-theme/)
 
