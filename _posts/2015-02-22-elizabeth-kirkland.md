@@ -69,7 +69,7 @@ Photos
 
 Photo [Opal Eye Photography](http://www.opaleyephotography.com/)
 
-The 2014 Vancouver Fringe Festival Guide!
+###The 2014 Vancouver Fringe Festival Guide!
 
 ![Fringe Guide](/images/FringeGuidePhoto.jpg)
 
