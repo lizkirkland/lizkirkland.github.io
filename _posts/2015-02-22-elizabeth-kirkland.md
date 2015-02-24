@@ -12,7 +12,7 @@ author:
   twitter: ElizJackman
   gplus: 112564550507120299319
   bio: Actor, producer, mom, adventurer
-  image: ks.png
+  image: liz-and-shaun.jpg
 ---
 
 ![Grey headshot](/images/headshot-grey.jpg)
