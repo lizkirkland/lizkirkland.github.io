@@ -26,11 +26,15 @@ What the Critics say
 
 ![Much Ado](/images/MuchAdo.jpg)
 
+*Much Ado About Nothing* with Theatre Calgary
+
 Photo Trudie Lee 
 
 "In the roles of Hero and Claudio, Elizabeth Kirkland and Tyrell Crews are well cast. Kirkland has a vulnerability about her; Kirkland's Hero is by turns dazzled and destroyed by the overpowering emotions surrounding her."-[Gavin Logan, Talking Broadway](http://www.talkinbroadway.com/regional/canada/ca14.html)
 
 ![Wicked Shorts](/images/WickedShortsSignsOutside.jpg)
+
+*Wicked Shorts* with Alley Theatre
 
 Photo [Bettina Strauss](http://best-foto.com/)
 
@@ -43,11 +47,14 @@ Photos
 
 ![Newest Headshot](/images/LizKirkland.jpg)
 
-*The Blue Room* with Gadfly Productions
-
 ![The Blue Room Photo](/images/TheBlueRoom.jpg)
 
+*The Blue Room* with Gadfly Productions
+
 ![Lovesong photo](/images/Lovesongphoto.jpg)
+
+*Lovesong* with Connecting Flights Theatre
+
 Photo [Megan Morrison](http://www.opaleyephotography.com/)
 
 The 2014 Vancouver Fringe Festival Guide!
