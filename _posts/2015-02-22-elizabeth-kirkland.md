@@ -24,6 +24,8 @@ Elizabeth is an actor, emerging producer, puppeteer and mom. Elizabeth has been 
 Coming up next
 --------------
 
+![Nordost Banner](/images/nordostbanner.jpg)
+
 Elizabeth will be playing Olga in [Troika Collective](http://www.thetroikacollective.com/#!upcoming-production/cb3i)'s North American premier of *Nordost* by Torsten Buchsteiner.
 Havana Theatre, 1212 Commercial Drive
 March 4-7.
