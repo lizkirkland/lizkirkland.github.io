@@ -27,6 +27,7 @@ Coming up next
 ![Nordost Banner](/images/nordostbanner.jpg)
 
 Photo: Liam Griffin
+
 Design: Arthur Yee
 
 Elizabeth will be playing Olga in [Troika Collective](http://www.thetroikacollective.com/#!upcoming-production/cb3i)'s North American premier of *Nordost* by Torsten Buchsteiner.
