@@ -4,7 +4,7 @@ layout: post
 title: Good Theatre
 subtitle: Women-focused, subtext-rich BC female playwrights
 cover_image: blog-cover.jpg
-redirect_from: /goodtheatre/index.html
+redirect_from: /goodtheatre/
 
 excerpt: Good Theatre, a cheeky name made up on the spot during the first-come-first-served application process for the Dramatic Works Series at the Vancouver Fringe Festival, is composed of director, writer, producer Tanille Geib and actor, producer Elizabeth Kirkland. Good Theatre aims to produce women focused, multi-disciplinary and subtext rich plays written by BC playwrights.
 
