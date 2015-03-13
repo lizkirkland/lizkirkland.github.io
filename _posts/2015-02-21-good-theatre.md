@@ -20,7 +20,7 @@ author:
 
 ###Up next for Good Theatre!?
 
-*Cave* by Miguel Eichelberger at the 2015 [rEvolver Theatre Festival](http://www.upintheairtheatre.com/festival-about)! Part of the rEvolver Reading Series, we'll bring *Cave* to life in the cozy Wine Bar at [The Cultch](http://thecultch.com/)!
+*Cave* by Miguel Eichelberger at the 2015 [rEvolver Theatre Festival](http://www.upintheairtheatre.com/festival-about)! Part of the rEvolver Reading Series, we'll bring *Cave* to life in the cozy Founder's Lounge at [The Cultch](http://thecultch.com/)!
 
 ![Cave Picture](/images/LizKirkland.VictorAyala.Cave.ChristineQuintana1.jpg)
 
