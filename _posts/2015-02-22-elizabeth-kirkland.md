@@ -43,6 +43,8 @@ What the Critics say
 
 *Much Ado About Nothing* with Theatre Calgary
 
+Thats me in the middle, with the veil!
+
 Photo: Trudie Lee
 
 "In the roles of Hero and Claudio, Elizabeth Kirkland and Tyrell Crews are well cast. Kirkland has a vulnerability about her; Kirkland's Hero is by turns dazzled and destroyed by the overpowering emotions surrounding her."-[Gavin Logan, Talking Broadway](http://www.talkinbroadway.com/regional/canada/ca14.html)
