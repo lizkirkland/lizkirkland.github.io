@@ -31,9 +31,7 @@ Photo: [Christine Quintana](http://christinequintana.ca/)
 Elizabeth will be producing and acting in a staged reading of Miguel Eichelberger's *Cave* for the Updrafts Reading Series of the 2015 [rEvolver Theatre Festival](http://www.upintheairtheatre.com/updrafts-reading-cave)!
 
 May 26, 7pm
-
 The Founder's Lounge at The Cultch
-
 Pay What You Can
 
 Next summer marks Elizabeth's second plunge into caring for a wee one when she and her husband, Shaun and their daughter, Daphne welcome baby number two into their family.
