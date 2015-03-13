@@ -24,7 +24,7 @@ Elizabeth is an actor, emerging producer, puppeteer and mom. Elizabeth has been 
 Coming up next
 --------------
 
-![Cave Photo]...
+![Cave Photo](/images/LizKirkland.VictorAyala.Cave.ChristineQuintana2.jpg)
 
 Elizabeth will be producing and acting in a staged reading of Miguel Eichelberger's *Cave* for the Updrafts Reading Series of the 2015 [rEvolver Theatre Festival](http://www.upintheairtheatre.com/updrafts-reading-cave)!
 May 26, 7pm
