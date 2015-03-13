@@ -41,9 +41,7 @@ What the Critics say
 
 ![Much Ado](/images/MuchAdo.jpg)
 
-*Much Ado About Nothing* with Theatre Calgary
-
-Thats me in the middle, with the veil!
+*Much Ado About Nothing* with Theatre Calgary (That's me in the middle, with the veil!)
 
 Photo: Trudie Lee
 
