@@ -1,0 +1,29 @@
+#submenu {
+	position: fixed;
+	top: 110px;
+	right: 45px;
+	margin: 0p;
+	padding: 0px;
+	list-style-type: none;
+}
+
+#submenu a{
+	min-width: 150px;
+	background-color: #fff;
+	border-radius: 2px;
+	padding: 6px;
+	padding-left: 10px;
+	padding-right: 10px;
+	display: block;
+	font-size: 10pt;
+	font-family: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-bottom: 2px;
+	border: solid 1px #acacac;
+	color: #999;
+	transition: background-color 1s, color 1s;
+}
+
+#submenu li.current a {
+	background-color: #ababab;
+	color: #fff;
+}
