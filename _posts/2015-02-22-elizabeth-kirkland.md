@@ -102,12 +102,12 @@ Reviews
 
 ### Good Theatre's first production, *The Good of the Sun*
 
+Women's dark view of marriage a suprising Fringe Theme—[Jerry Wasserman at The Province](http://blogs.theprovince.com/2014/09/11/theatre-review-womens-dark-view-of-marriage-a-surprising-fringe-theme/)
+
+The Good of the Sun—[Susan Cormier at Plank Magazine](http://plankmagazine.com/review/good-sun)
+
 ![GotS Poster](/images/GotSPoster.jpg)
 
 Photo: [Kurtis Stewart](http://kurtisstewart.com/)
 
 Design: Tanille Geib, Elizabeth Kirkland and Gabriel Gosselin 
-
-Women's dark view of marriage a suprising Fringe Theme—[Jerry Wasserman at The Province](http://blogs.theprovince.com/2014/09/11/theatre-review-womens-dark-view-of-marriage-a-surprising-fringe-theme/)
-
-The Good of the Sun—[Susan Cormier at Plank Magazine](http://plankmagazine.com/review/good-sun)
