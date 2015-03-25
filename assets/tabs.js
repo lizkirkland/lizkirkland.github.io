@@ -10,16 +10,14 @@ var Scroller = (function() {
 		var container = $('#submenu');
 		
 		// Mobile width is getting messed up
-		if ($(window).width() != container.width()) {
-			container.width($(window).width());
-		} else {
-			container.width( 'auto' );	
-		}
 		if ( $(window).width() <= mobile_cutoff ) {
 			$('div.article-cover,div.blog-cover').css({'margin-top': $(container).height() + 'px'});
-		} else
+			if ($(window).width() != container.width()) {
+				container.width($(window).width());
+		} else {
 			$('div.article-cover,div.blog-cover').css({'margin-top': ''});
-
+			container.width( 'auto' );	
+		}
 		
 		var offset = $(window).scrollTop();
 		if ( offset > topbar_offset )
