@@ -1,10 +1,12 @@
-#submenu {
+#submenu ul {
 	margin: 0px;
 	padding: 0px;
 	list-style-type: none;
-	z-index: 4;
 }
-
+#submenu {
+	z-index: 4;
+	position: absolute;
+}
 #submenu a{
 	background-color: #fff;
 	padding: 6px;
@@ -15,6 +17,9 @@
 	font-family: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #999;
 	transition: background-color 0.5s, color 0.5s;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
 #submenu li.current a {
@@ -31,10 +36,16 @@
 	position:fixed;
 	top: 45px;
 }
+.clr {
+	height: 0px;
+	display: block;
+	visibility: hidden;
+	clear: both;
+	float: none;
+}
 
 @media all and (min-width: 585px) {
 	#submenu {
-		position: absolute;
 		top: 110px;
 		right: 45px;
 	}
@@ -46,8 +57,12 @@
 		border-radius: 2px;
 		margin-bottom: 2px;
 		border: solid 1px #acacac;
+		max-width: 200px;
 	}
 
+	#submenu.fixed {
+		top: 30px;
+	}
 }
 
 
@@ -57,21 +72,29 @@
 		top: 0px;
 	}
 
-	ul#submenu {
-		width: 100%;
+	#submenu {
 		max-width: 585px;
-		background-color: #efefef;
+		background-color: rgba( 220, 220, 220, 0.4);
+	}
+	#submenu ul {
+		width: 100%;
 	}
 	#submenu li {
-		display: inline-block;
+		display: block;
 		width: 50%;
+		padding: 0px;
+		margin: 0px;
+		overflow: hidden;
+		float: left;
 	}
 	#submenu a {
-		display: inline-block;
+		display: block;
 		width: 100%;
 		text-align: center;
 		border-bottom: solid 1px #acacac;
 		padding: 10px;
+		margin: 0px;
+		float: left;
 	}
 	#submenu li:nth-child(odd) a{
 		border-right: solid 1px #acacac;
