@@ -16,9 +16,9 @@ var Scroller = (function() {
 			container.width( 'auto' );	
 		}
 		if ( $(window).width() <= mobile_cutoff ) {
-			$('div.article-cover,div.blog-cover').attr('style', 'margin-top: ' + $(container).height() + 'px;');
+			$('div.article-cover,div.blog-cover').css('margin-top', $(container).height() + 'px;');
 		} else
-			$('div.article-cover,div.blog-cover').attr('style', '');
+			$('div.article-cover,div.blog-cover').css('margin-top', '');
 
 		
 		var offset = $(window).scrollTop();
@@ -78,7 +78,7 @@ var Scroller = (function() {
 $(document).ready( function() {
 	var out = '<div id="submenu"><ul>';
 	var amap = {};
-	$('h1,h2:not(.subtitle)').each( function(i) { //sections
+	$('article h1,article h2:not(.subtitle)').each( function(i) { //sections
 		var anchor = Scroller.sanitize($(this).text());
 		if ( amap.hasOwnProperty(anchor) ) 
 			anchor += i;
