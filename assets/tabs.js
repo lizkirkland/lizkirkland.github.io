@@ -16,9 +16,9 @@ var Scroller = (function() {
 			container.width( 'auto' );	
 		}
 		if ( $(window).width() <= mobile_cutoff ) {
-			$('div.article-cover,div.blog-cover').css('margin-top', $(container).height() + 'px;');
+			$('div.article-cover,div.blog-cover').css({'margin-top': $(container).height() + 'px'});
 		} else
-			$('div.article-cover,div.blog-cover').css('margin-top', '');
+			$('div.article-cover,div.blog-cover').css({'margin-top': ''});
 
 		
 		var offset = $(window).scrollTop();
