@@ -1,19 +1,33 @@
 var Scroller = (function() {
 
 	var scroller = {};
-
+	
+	var mobile_cutoff = 585;
+	var topbar_offset = 65;
+	
 	scroller.recalc = function(e) {
+		var container = $('#submenu');
+		
+		// Mobile width is getting messed up
+		if ($(window).width() <= container.width()) {
+			container.width($(window).width());
+		} else {
+			container.width( 'auto' );	
+		}
+			
+
+		
 		var offset = $(window).scrollTop();
-		if ( offset > 65 )
-			$('#submenu').addClass('fixed');
+		if ( offset > topbar_offset )
+			container.addClass('fixed');
 		else 
-			$('#submenu').removeClass('fixed');
+			container.removeClass('fixed');
 		var height = $(window).height();
 		
 		var middle = offset + height/2;
 		var blocks = [];
 		
-		$('#submenu a').each( function(i) {
+		container.find('a').each( function(i) {
 			var anchor = $(this).attr('href').substr(1);
 			var pos = $('a[name='+anchor+']').offset().top;
 			if ( i > 0 ) {
@@ -30,11 +44,11 @@ var Scroller = (function() {
 
 		blocks[blocks.length-1].to = $(document).height();
 		
-		$('#submenu li.current').removeClass();
+		container.find('li.current').removeClass();
 		for( var i=0; i < blocks.length; i++ ) {
 			if ( middle > blocks[i].from && middle < blocks[i].to ) {
 				console.log('in the middle of ' + blocks[i].anchor);
-				$('#submenu li a[href=#' + blocks[i].anchor + ']').parent().addClass('current');
+				container.find('li a[href=#' + blocks[i].anchor + ']').parent().addClass('current');
 			}
 		}
 		
@@ -49,7 +63,11 @@ var Scroller = (function() {
 	scroller.scrollToAnchor = function(e) {
 		var a = $(e.currentTarget);
 		var target = $('a[name=' + a.attr('href').substr(1) + ']');
-		$('body').animate( {scrollTop: target.offset().top }, 'slow' );
+		var offset = 0;
+		if ($(window).width() <= mobile_cutoff) {
+			offset += $('#submenu').height();
+		}
+		$('body').animate( {scrollTop: target.offset().top - offset }, 'slow' );
 	//	return false;
 	}
 	
@@ -60,7 +78,7 @@ var Scroller = (function() {
 $(document).ready( function() {
 	var out = '<ul id="submenu">';
 	var amap = {};
-	$('h2').each( function(i) { //sections
+	$('h1,h2').each( function(i) { //sections
 		var anchor = Scroller.sanitize($(this).text());
 		if ( amap.hasOwnProperty(anchor) ) 
 			anchor += i;
@@ -74,7 +92,7 @@ $(document).ready( function() {
 		out += '<li><a href="#'+anchor+'">'+caption+'</a></li>';
 	});
 	out += '</ul>';
-	$('body').append( out );
+	$('section.site-nav').after( out );
 	$('#submenu a').click( Scroller.scrollToAnchor );
 	$(window).scroll( Scroller.recalc ).resize( Scroller.recalc );
 });

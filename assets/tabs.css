@@ -1,29 +1,18 @@
 #submenu {
-	position: absolute;
-	top: 110px;
-	right: 45px;
-	margin: 0p;
+	margin: 0px;
 	padding: 0px;
 	list-style-type: none;
 	z-index: 4;
 }
-#submenu.fixed {
-	position:fixed;
-	top: 45px;
-}
 
 #submenu a{
-	min-width: 150px;
 	background-color: #fff;
-	border-radius: 2px;
 	padding: 6px;
 	padding-left: 10px;
 	padding-right: 10px;
 	display: block;
 	font-size: 10pt;
 	font-family: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	margin-bottom: 2px;
-	border: solid 1px #acacac;
 	color: #999;
 	transition: background-color 0.5s, color 0.5s;
 }
@@ -36,4 +25,59 @@
 #submenu li a:hover {
 	background-color: #666;
 	color: #fff;
+}
+
+#submenu.fixed {
+	position:fixed;
+	top: 45px;
+}
+
+@media all and (min-width: 585px) {
+	#submenu {
+		position: absolute;
+		top: 110px;
+		right: 45px;
+	}
+	
+
+	
+	#submenu a {
+		min-width: 150px;
+		border-radius: 2px;
+		margin-bottom: 2px;
+		border: solid 1px #acacac;
+	}
+
+}
+
+
+@media all and (max-width: 585px) {
+	#submenu.fixed {
+		position:fixed;
+		top: 0px;
+	}
+
+	ul#submenu {
+		width: 100%;
+		max-width: 585px;
+		background-color: #efefef;
+	}
+	#submenu li {
+		display: inline-block;
+		width: 50%;
+	}
+	#submenu a {
+		display: inline-block;
+		width: 100%;
+		text-align: center;
+		border-bottom: solid 1px #acacac;
+		padding: 10px;
+	}
+	#submenu li:nth-child(odd) a{
+		border-right: solid 1px #acacac;
+	}
+	#submenu li:nth-child(1) a, #submenu li:nth-child(2) a{
+		border-top: solid 1px #acacac;
+	}
+
 }
