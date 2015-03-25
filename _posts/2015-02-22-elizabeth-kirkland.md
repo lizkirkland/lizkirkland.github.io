@@ -97,8 +97,10 @@ Good Theatre aims to produce women focused, multi-disciplinary and subtext rich 
 
 Liz is currently participating in Block P at the [Playwrights Theatre Centre](http://www.playwrightstheatre.com/programs/writers-blocks/) learning all that she can about producing from the awesome peeps at [Upintheair Theatre](http://www.upintheairtheatre.com/).
 
-Reviews for Good Theatre's first production, *The Good of the Sun*
------------------------------------------------------------------
+Reviews
+-------
+
+### Good Theatre's first production, *The Good of the Sun*
 
 ![GotS Poster](/images/GotSPoster.jpg)
 
