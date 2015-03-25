@@ -1,10 +1,15 @@
 #submenu {
-	position: fixed;
+	position: absolute;
 	top: 110px;
 	right: 45px;
 	margin: 0p;
 	padding: 0px;
 	list-style-type: none;
+	z-index: 4;
+}
+#submenu.fixed {
+	position:fixed;
+	top: 45px;
 }
 
 #submenu a{
@@ -20,10 +25,15 @@
 	margin-bottom: 2px;
 	border: solid 1px #acacac;
 	color: #999;
-	transition: background-color 1s, color 1s;
+	transition: background-color 0.5s, color 0.5s;
 }
 
 #submenu li.current a {
 	background-color: #ababab;
+	color: #fff;
+}
+
+#submenu li a:hover {
+	background-color: #666;
 	color: #fff;
 }

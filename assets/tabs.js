@@ -4,6 +4,10 @@ var Scroller = (function() {
 
 	scroller.recalc = function(e) {
 		var offset = $(window).scrollTop();
+		if ( offset > 65 )
+			$('#submenu').addClass('fixed');
+		else 
+			$('#submenu').removeClass('fixed');
 		var height = $(window).height();
 
 		var middle = offset + height/2;
