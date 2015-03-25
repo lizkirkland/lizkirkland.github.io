@@ -12,7 +12,7 @@ var Scroller = (function() {
 		// Mobile width is getting messed up
 		if ( $(window).width() <= mobile_cutoff ) {
 			$('div.article-cover,div.blog-cover').css({'margin-top': $(container).height() + 'px'});
-			if ($(window).width() != container.width()) {
+			if ($(window).width() != container.width()) 
 				container.width($(window).width());
 		} else {
 			$('div.article-cover,div.blog-cover').css({'margin-top': ''});
