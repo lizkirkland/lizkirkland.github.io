@@ -10,7 +10,7 @@ var Scroller = (function() {
 		var container = $('#submenu');
 		
 		// Mobile width is getting messed up
-		if ($(window).width() <= container.width()) {
+		if ($(window).width() != container.width()) {
 			container.width($(window).width());
 		} else {
 			container.width( 'auto' );	
@@ -91,7 +91,7 @@ $(document).ready( function() {
 	out += '</ul><div class="clr">.</div></div>';
 	$('section.site-nav').after( out );
 	$('#submenu a').click( Scroller.scrollToAnchor );
-	$(window).scroll( Scroller.recalc ).resize( Scroller.recalc );
+	$(window).scroll( Scroller.recalc ).resize( Scroller.recalc ).resize();
 });
 
 
