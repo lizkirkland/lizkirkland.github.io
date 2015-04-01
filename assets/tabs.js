@@ -11,9 +11,8 @@ var Scroller = (function() {
 		
 		// Mobile width is getting messed up
 		if ( $(window).width() <= mobile_cutoff ) {
-			$('div.article-cover,div.blog-cover').css({'margin-top': $(container).height() + 'px'});
 			if ($(window).width() != container.width()) 
-				container.width($(window).width());
+				$('#navigation').width($(window).width());
 		} else {
 			$('div.article-cover,div.blog-cover').css({'margin-top': ''});
 			container.width( 'auto' );	
@@ -63,7 +62,7 @@ var Scroller = (function() {
 		var target = $('a[name=' + a.attr('href').substr(1) + ']');
 		var offset = 0;
 		if ($(window).width() <= mobile_cutoff) {
-			offset += $('#submenu').height();
+			offset += $(window).height()/2;
 		}
 		$('body').animate( {scrollTop: target.offset().top - offset }, 'slow' );
 	//	return false;
@@ -74,7 +73,7 @@ var Scroller = (function() {
 
 
 $(document).ready( function() {
-	var out = '<div id="submenu"><ul>';
+	var out = '<ul id="submenu">';
 	var amap = {};
 	$('article h1,article h2:not(.subtitle)').each( function(i) { //sections
 		var anchor = Scroller.sanitize($(this).text());
@@ -86,10 +85,24 @@ $(document).ready( function() {
 		$(this).prepend('<a name="'+anchor+'"></a>');
 		out += '<li><a href="#'+anchor+'">'+caption+'</a></li>';
 	});
-	out += '</ul><div class="clr">.</div></div>';
-	$('section.site-nav').after( out );
+	out += '</ul>';
+	$('#navigation ul').after( out );
 	$('#submenu a').click( Scroller.scrollToAnchor );
 	$(window).scroll( Scroller.recalc ).resize( Scroller.recalc ).resize();
+	
+	
+	$('#nav-toggle').click( function() {
+			if ( $(this).hasClass('active') ) {
+				$(this).removeClass('active')
+				$('#navigation').removeClass('show')
+				$('article').removeClass('background');
+			} else {
+				$('#navigation').addClass('show')
+				$(this).addClass('active');
+				$('article').addClass('background');
+			}
+			return false;
+		});
 });
 
 

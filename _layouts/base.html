@@ -36,13 +36,18 @@
     
 <section class="site-nav">
     <header>
-        <nav id="navigation">
+        <a id="nav-toggle" href="#"><span></span></a>
+		<nav id="navigation">
+			
             <a class="brand" href="/">
                 <img src="/images/{{ site.inc.logo }}" alt="Inc">
             </a>
-            <a href="/" class="home">Blog</a>
-            {% if site.inc.resume_link %}<a href="{{ site.inc.resume_link }}">Resume</a>{% endif %}
-            {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">About</a>{% endif %}
+			<ul class="main">
+				<li><a href="/" class="home">Blog</a></li>
+				{% if site.inc.resume_link %}<li><a href="{{ site.inc.resume_link }}">Resume</a></li>{% endif %}
+				{% if site.inc.about_link %}<li><a href="{{ site.inc.about_link }}">About</a></li>{% endif %}
+			</ul>
+			<div class="clr">.</div>
         </nav>
         {% if site.inc.tagline or site.inc.resume_url %}<nav class="tagline">
             {% if site.inc.tagline %}<span>{{ site.inc.tagline }}</span>{% endif %}
