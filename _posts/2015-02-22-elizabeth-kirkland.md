@@ -19,22 +19,14 @@ author:
 
 Photo: Mischa Bartkow
 
-Elizabeth is an actor, emerging producer, [Alley Theatre] (http://alleytheatre.wix.com/alleytheatre) board member, puppeteer and mom. Elizabeth has been acting for the past decade in Calgary and Vancouver and has a BFA with Distinction from the University of Calgary. Past theatre highlights include *A Christmas Carol* (5 consecutive years as Belle) and *Much Ado About Nothing* (Hero) both for Theatre Calgary, *Amadeus* (Katarina) for Alberta Theatre Projects, *Macbeth* (Witch 3, King Duncan) for Limbo Circus Theatre, *A Tomb With a View* (Freda) for Genus Theatre and Upintheair Theatre, *Cocktails at Pam’s* (Denise) for Staircase Equity Coop, *Nordost* (Olga) for The Troika Collective and Alley Theatre’s *Wicked Shorts* which she acted in and co-produced alongside Marisa Smith. *Wicked Shorts* was produced for the 2010 Vancouver Fringe Festival and won the Cultchivating The Fringe Award. It went on to be remounted at The Cultch in 2011. Most recently Elizabeth co-produced and acted in *The Good of the Sun* by BC playwright [Betty Lambert](http://www.bettylambert.ca/index.htm) for her company Good Theatre at the Vancouver Fringe Festival.
+Elizabeth is an actor, emerging producer, [Alley Theatre] (http://alleytheatre.wix.com/alleytheatre) board member, puppeteer and mom. Elizabeth has been acting for the past decade in Calgary and Vancouver and has a BFA with Distinction from the University of Calgary. Past theatre highlights include *A Christmas Carol* (5 consecutive years as Belle) and *Much Ado About Nothing* (Hero) both for Theatre Calgary, *Amadeus* (Katarina) for Alberta Theatre Projects, *Macbeth* (Witch 3, King Duncan) for Limbo Circus Theatre, *A Tomb With a View* (Freda) for Genus Theatre and Upintheair Theatre, *Cocktails at Pam’s* (Denise) for Staircase Equity Coop, *Nordost* (Olga) for The Troika Collective and Alley Theatre’s *Wicked Shorts* which she acted in and co-produced alongside Marisa Smith. *Wicked Shorts* was produced for the 2010 Vancouver Fringe Festival and won the Cultchivating The Fringe Award. It went on to be remounted at The Cultch in 2011. Elizabeth co-produced and acted in *The Good of the Sun* by BC playwright [Betty Lambert](http://www.bettylambert.ca/index.htm) for her company Good Theatre at the Vancouver Fringe Festival.
 
 Coming up next
 --------------
 
-![Cave Photo](/images/LizKirkland.VictorAyala.Cave.ChristineQuintana2.jpg)
+A BABY!
 
-Photo: [Christine Quintana](http://christinequintana.ca/)
-
-Elizabeth will be producing and acting in a staged reading of Miguel Eichelberger's *Cave* for the Updrafts Reading Series of the 2015 [rEvolver Theatre Festival](http://www.upintheairtheatre.com/updrafts-reading-cave)!
-
-May 26, 7pm  
-The Founder's Lounge at The Cultch  
-Pay What You Can
-
-Next summer marks Elizabeth's second plunge into caring for a wee one when she and her husband, Shaun and their daughter, Daphne welcome baby number two into their family.
+Any day now Elizabeth's second plunge into caring for a wee one takes place, when she and her husband, Shaun and their daughter, Daphne welcome baby number two into their family.
 
 What the Critics say
 --------------------
@@ -95,7 +87,7 @@ Liz is learning the ropes producing for her own company Good Theatre alongside a
 
 Good Theatre aims to produce women focused, multi-disciplinary and subtext rich plays written by BC, female playwrights.
 
-Liz is currently participating in Block P at the [Playwrights Theatre Centre](http://www.playwrightstheatre.com/programs/writers-blocks/) learning all that she can about producing from the awesome peeps at [Upintheair Theatre](http://www.upintheairtheatre.com/).
+Liz was a participant in the first ever Block P at the [Playwrights Theatre Centre](http://www.playwrightstheatre.com/programs/writers-blocks/) learning all that she could about producing from the awesome peeps at [Upintheair Theatre](http://www.upintheairtheatre.com/).
 
 Reviews
 -------
