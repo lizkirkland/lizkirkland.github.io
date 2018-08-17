@@ -19,14 +19,7 @@ author:
 
 Photo: Mischa Bartkow
 
-Elizabeth is an actor, emerging producer, [Alley Theatre](http://alleytheatre.wix.com/alleytheatre) board member, puppeteer and mom. Elizabeth has been acting for the past decade in Calgary and Vancouver and has a BFA with Distinction from the University of Calgary. Past theatre highlights include *A Christmas Carol* (5 consecutive years as Belle) and *Much Ado About Nothing* (Hero) both for Theatre Calgary, *Amadeus* (Katarina) for Alberta Theatre Projects, *Macbeth* (Witch 3, King Duncan) for Limbo Circus Theatre, *A Tomb With a View* (Freda) for Genus Theatre and Upintheair Theatre, *Cocktails at Pam’s* (Denise) for Staircase Equity Coop, *Nordost* (Olga) for The Troika Collective and Alley Theatre’s *Wicked Shorts* which she acted in and co-produced alongside Marisa Smith. *Wicked Shorts* was produced for the 2010 Vancouver Fringe Festival and won the Cultchivating The Fringe Award. It went on to be remounted at The Cultch in 2011. Elizabeth co-produced and acted in *The Good of the Sun* by BC playwright [Betty Lambert](http://www.bettylambert.ca/index.htm) for her company Good Theatre at the Vancouver Fringe Festival.
-
-Coming up next
---------------
-
-A BABY!
-
-Any day now Elizabeth's second plunge into caring for a wee one takes place, when she and her husband, Shaun and their daughter, Daphne welcome baby number two into their family.
+Elizabeth is an actor, emerging producer, Co-artistic director for [Staircase Theatre] (https://www.staircasetheatre.com),  [Alley Theatre](http://alleytheatre.wix.com/alleytheatre) board member, puppeteer and mom. Elizabeth has been acting for the past decade in Calgary and Vancouver and has a BFA with Distinction from the University of Calgary. Past theatre highlights include *Corleone: The Shakespearean Godfather* (Fredo) for Classic Chic and Pacific Theatre, *Three Stories Up* for Alley Theatre, *Nordost* (Olga) for The Troika Collective, *A Christmas Carol* (5 consecutive years as Belle) and *Much Ado About Nothing* (Hero) both for Theatre Calgary, *Amadeus* (Katarina) for Alberta Theatre Projects, *A Tomb With a View* (Freda) for Genus Theatre and Upintheair Theatre, *Cocktails at Pam’s* (Denise) for Staircase Equity Coop and Alley Theatre’s *Wicked Shorts* which she acted in and co-produced alongside Marisa Smith. *Wicked Shorts* was produced for the 2010 Vancouver Fringe Festival and won the Cultchivating The Fringe Award. It went on to be remounted at The Cultch.
 
 What the Critics say
 --------------------
