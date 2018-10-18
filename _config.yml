@@ -4,7 +4,7 @@ inc:
   subtitle:     Actor, producer, mom, adventurer
   cover_image:  blog-cover.jpg
   logo:         liz-and-shaun.jpg
-  
+
   # Company information
   company:      Elizabeth Kirkland
   url:          http://lizkirkland.ca/
@@ -13,32 +13,30 @@ inc:
   gplus:        112564550507120299319
   about_link:   /lizkirkland/
   resume_link:  /resume/
-  
+
   # Product Information
   tagline:      Elizabeth Kirkland
-  
+
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
     shortname:  false
-  
+
   # Sharing settings
   sharing:
     twitter:    true
     facebook:   true
     gplus:      true
     hn:         false
-    
-  
- # Analytics     
+
+ # Analytics
   analytics:
     google: false # Add tracking code in _includes/_google-analytics.html
-      
-      
+
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
   google_font: 'Droid+Sans:400,700'
-  
+
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
 url:         http://lizkirkland.github.io
