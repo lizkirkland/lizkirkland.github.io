@@ -27,6 +27,8 @@ What the Critics say
 
 ![Mr Burns](/images/MrBurnsSimpsonsFamily.JPG)
 
+Photo: Duy Nguyen
+
 *Mr Burns: a post electric play* with Little Mountain Lion Productions
 
 "What a pleasure to watch this cast in action."-[Jerry Wasserman, Vancouver Sun](https://vancouversun.com/entertainment/local-arts/theatre-review-surviving-the-apocalypse-with-the-simpsons-in-mr-burns)
