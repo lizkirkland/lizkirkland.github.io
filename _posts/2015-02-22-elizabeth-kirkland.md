@@ -20,7 +20,7 @@ author:
 
 Photo: Mischa Bartkow
 
-Elizabeth is an actor, emerging producer, Co-artistic director for [Staircase Theatre](https://www.staircasetheatre.com),  [Alley Theatre](http://alleytheatre.wix.com/alleytheatre) board member, puppeteer and mom. Elizabeth has been acting for the past decade in Calgary and Vancouver and has a BFA with Distinction from the University of Calgary. Past theatre highlights include *Corleone: The Shakespearean Godfather* (Fredo) for Classic Chic and Pacific Theatre, *Three Stories Up* for Alley Theatre, *Nordost* (Olga) for The Troika Collective, *A Christmas Carol* (5 consecutive years as Belle) and *Much Ado About Nothing* (Hero) both for Theatre Calgary, *Amadeus* (Katarina) for Alberta Theatre Projects, *A Tomb With a View* (Freda) for Genus Theatre and Upintheair Theatre, *Cocktails at Pam’s* (Denise) for Staircase Equity Coop and Alley Theatre’s *Wicked Shorts* which she acted in and co-produced alongside Marisa Smith. *Wicked Shorts* was produced for the 2010 Vancouver Fringe Festival and won the Cultchivating The Fringe Award. It went on to be remounted at The Cultch.
+Elizabeth is an actor, emerging producer, Co-artistic director for [Staircase Theatre](https://www.staircasetheatre.com),  [Alley Theatre](http://alleytheatre.wix.com/alleytheatre) board member, puppeteer and mom. Elizabeth has been acting for the past thirteen years in Calgary and Vancouver and has a BFA with Distinction from the University of Calgary. Past theatre highlights include *Corleone: The Shakespearean Godfather* (Fredo) for Classic Chic and Pacific Theatre, *Three Stories Up* for Alley Theatre, *Nordost* (Olga) for The Troika Collective, *Mr. Burns: a post electric play* (Colleen/Marge) for Little Mountain Lion Productions, *A Christmas Carol* (5 consecutive years as Belle) and *Much Ado About Nothing* (Hero) both for Theatre Calgary, *Amadeus* (Katarina) for Alberta Theatre Projects, *A Tomb With a View* (Freda) for Genus Theatre and Upintheair Theatre, *Cocktails at Pam’s* (Denise) for Staircase Equity Coop and Alley Theatre’s *Wicked Shorts* which she acted in and co-produced alongside Marisa Smith. *Wicked Shorts* was produced for the Vancouver Fringe Festival, won The Cultchivating The Fringe Award, and went on to be remounted at The Cultch the following year. As a puppeteer she recently toured *The Green Wanderer* throughout the lower mainland for The King Matt Theatre. Currently, she tours a show about juvenile idiopathic arthritis to schools throughout the lower mainland for the Cassie and Friends Society for Juvenile Arthritis and Other Rheumatic Diseases. Elizabeth is the mother to the incredibly spirited Daphne and to the rocket ship obsessed Jake.
 
 What the Critics say
 --------------------
@@ -58,7 +58,7 @@ Photos
 
 Photo: [Opal Eye Photography](http://www.opaleyephotography.com/)
 
-###The 2014 Vancouver Fringe Festival Guide!
+### The 2014 Vancouver Fringe Festival Guide!
 
 ![Fringe Guide](/images/FringeGuidePhoto.jpg)
 
