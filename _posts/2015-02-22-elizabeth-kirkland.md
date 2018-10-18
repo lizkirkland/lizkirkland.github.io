@@ -26,9 +26,11 @@ What the Critics say
 --------------------
 
 For *Corleone: The Shakespearean Godfather* with Classic Chic and Pacific Theatre
+
 "What a pleasure to watch this cast in action."-[Jerry Wasserman, Vancouver Sun](https://vancouversun.com/entertainment/local-arts/theatre-review-surviving-the-apocalypse-with-the-simpsons-in-mr-burns)
 
 For *Three Stories Up* with Alley Theatre
+
 "Suffice to say each actor captures Gordon’s words with clarity, an imperative for a show that relies exclusively on words and sounds."-[Mark Robbins, Vancouver Presents](https://www.vancouverpresents.com/theatre/review-three-stories-up/)
 
 ![Much Ado](/images/MuchAdo.jpg)
