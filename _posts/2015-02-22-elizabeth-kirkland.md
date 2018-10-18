@@ -46,7 +46,7 @@ Photo: [Bettina Strauss](http://best-foto.com/)
 Photos
 ------
 
-![Fredo](/images/Corleone Fredo.jpg)
+![Fredo](/images/CorleoneFredo.jpg)
 
 ![The Blue Room Photo](/images/TheBlueRoom.jpg)
 
