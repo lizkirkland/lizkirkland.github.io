@@ -1,10 +1,2 @@
 source 'https://rubygems.org'
-
-gem 'jekyll'
-gem 'jekyll-assets'
-gem 'jekyll-redirect-from'
-gem 'maruku'
-gem 'rake'
-gem 'sass'
-gem 'uglifier'
-gem 'github-pages'
+gem 'github-pages', group: :jekyll_plugins
