@@ -46,7 +46,7 @@ Photo: [Bettina Strauss](http://best-foto.com/)
 Photos
 ------
 
-![Newest Headshot](/images/LizKirkland.jpg)
+![Fredo](/images/Corleone Fredo.jpg)
 
 ![The Blue Room Photo](/images/TheBlueRoom.jpg)
 
