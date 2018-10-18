@@ -4,6 +4,7 @@ layout: post
 title: Elizabeth Kirkland
 subtitle: Actor, mom, wife, lover, friend, emerging producer, puppeteer, crafter, adventurer.
 cover_image: blog-cover.jpg
+permalink: /lizkirkland/
 
 excerpt: Actor, mom, wife, lover, friend, emerging producer, puppeteer, crafter, adventurer.
 
