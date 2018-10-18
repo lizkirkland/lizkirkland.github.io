@@ -25,7 +25,7 @@ Elizabeth is an actor, emerging producer, Co-artistic director for [Staircase Th
 What the Critics say
 --------------------
 
-
+![Mr Burns](/images/MrBurnsSimpsonsFamily.JPG)
 
 *Mr Burns: a post electric play* with Little Mountain Lion Productions
 
