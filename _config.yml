@@ -1,6 +1,3 @@
-gems:
-  - jekyll-redirect-from
-
 inc:
   # Blog Information
   title:        Elizabeth Kirkland
@@ -47,8 +44,8 @@ inc:
 url:         http://lizkirkland.github.io
 source:      .
 destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
+plugins_dir: ./_plugins
+layouts_dir: ./_layouts
 include:     ['.htaccess']
 exclude:     []
 timezone:    nil
@@ -58,8 +55,6 @@ future:      false
 show_drafts: nil
 limit_posts: 0
 highlighter: pygments
-
-relative_permalinks: true
 
 permalink:     pretty
 paginate_path: 'page:num'
@@ -96,15 +91,6 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  use_coderay: false
-
-  coderay:
-    coderay_wrap: div
-    coderay_line_numbers: inline
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: style
 
 redcloth:
   hard_breaks: true
