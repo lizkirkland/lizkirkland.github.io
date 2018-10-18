@@ -25,6 +25,10 @@ Elizabeth is an actor, emerging producer, Co-artistic director for [Staircase Th
 What the Critics say
 --------------------
 
+"What a pleasure to watch this cast in action."-[Jerry Wasserman, Vancouver Sun](https://vancouversun.com/entertainment/local-arts/theatre-review-surviving-the-apocalypse-with-the-simpsons-in-mr-burns)
+
+"Suffice to say each actor captures Gordon’s words with clarity, an imperative for a show that relies exclusively on words and sounds."-[Mark Robbins, Vancouver Presents](https://www.vancouverpresents.com/theatre/review-three-stories-up/)
+
 ![Much Ado](/images/MuchAdo.jpg)
 
 *Much Ado About Nothing* with Theatre Calgary (That's me in the middle, with the veil!)
@@ -76,26 +80,3 @@ Makeup Artist: Marie-Helene Babin
 
 Hair Stylists: Elsa Meier and Kyna Bigornia
 
-Emerging Producer
-=================
-
-Liz is learning the ropes producing for her own company Good Theatre alongside artist, friend, and inspiration, [Tanille Geib](http://www.tanillegeib.ca/).
-
-Good Theatre aims to produce women focused, multi-disciplinary and subtext rich plays written by BC, female playwrights.
-
-Liz was a participant in the first ever Block P at the [Playwrights Theatre Centre](http://www.playwrightstheatre.com/programs/writers-blocks/) learning all that she could about producing from the awesome peeps at [Upintheair Theatre](http://www.upintheairtheatre.com/).
-
-Reviews
--------
-
-### Good Theatre's first production, *The Good of the Sun*
-
-Women's dark view of marriage a suprising Fringe Theme—[Jerry Wasserman at The Province](http://blogs.theprovince.com/2014/09/11/theatre-review-womens-dark-view-of-marriage-a-surprising-fringe-theme/)
-
-The Good of the Sun—[Susan Cormier at Plank Magazine](http://plankmagazine.com/review/good-sun)
-
-![GotS Poster](/images/GotSPoster.jpg)
-
-Photo: [Kurtis Stewart](http://kurtisstewart.com/)
-
-Design: Tanille Geib, Elizabeth Kirkland and Gabriel Gosselin 
