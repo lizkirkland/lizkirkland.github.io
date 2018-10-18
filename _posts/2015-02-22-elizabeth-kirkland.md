@@ -48,6 +48,8 @@ Photos
 
 ![Fredo](/images/CorleoneFredo.jpg)
 
+*Corleone: the Shakespearean Godfather* with Classic Chic and Pacific Theatre
+
 ![The Blue Room Photo](/images/TheBlueRoom.jpg)
 
 *The Blue Room* with Gadfly Productions
