@@ -58,6 +58,11 @@ Photo: [Bettina Strauss](http://best-foto.com/)
 Photos
 ------
 
+![Hatch](/images/TheSeaHatch.jpg)
+
+*The Sea* with The Slamming Door Collective
+
+Photo: Erin Aberle-Palm
 
 ![Fredo](/images/CorleoneFredo.jpg)
 
