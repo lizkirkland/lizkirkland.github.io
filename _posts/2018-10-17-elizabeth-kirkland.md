@@ -58,7 +58,7 @@ Photo: [Bettina Strauss](http://best-foto.com/)
 Photos
 ------
 
-![Hatch](/images/The Sea_Elizabeth Kirkland as Hatch_photo by Erin Aberle Palm 1.jpg)
+![Hatch](/images/The Sea_Elizabeth Kirkland as Hatch_Photo by Erin Aberle Palm 1.jpg)
 
 *The Sea* with The Slamming Door Collective
 
